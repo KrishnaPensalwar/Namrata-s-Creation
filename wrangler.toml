@@ -1,0 +1,40 @@
+name = "namrata-boutique-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-10"
+workers_dev = true
+account_id = "2a2244cbbe2232421b4dbd017af3ed17"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "namrata_boutique"
+database_id = "f933daa9-55bf-4c4b-9ace-07c456864af5"
+migrations_dir = "db/migrations"
+
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "namrata-media"
+
+[vars]
+ALLOWED_ORIGINS = "*"
+LOG_LEVEL = "info"
+# Updated after first deploy to workers.dev URL
+CDN_URL = "https://namrata-boutique-api-preview.krishnapensalwar3.workers.dev/media"
+
+# Preview uses same D1 + R2 (single resources provided)
+[env.preview]
+name = "namrata-boutique-api-preview"
+
+[[env.preview.d1_databases]]
+binding = "DB"
+database_name = "namrata_boutique"
+database_id = "f933daa9-55bf-4c4b-9ace-07c456864af5"
+migrations_dir = "db/migrations"
+
+[[env.preview.r2_buckets]]
+binding = "MEDIA"
+bucket_name = "namrata-media"
+
+[env.preview.vars]
+ALLOWED_ORIGINS = "*"
+LOG_LEVEL = "info"
+CDN_URL = "https://namrata-boutique-api-preview.krishnapensalwar3.workers.dev/media"

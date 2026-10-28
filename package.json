@@ -1,0 +1,36 @@
+{
+  "name": "namrata-boutique-api",
+  "version": "1.0.0",
+  "description": "API backend for Ratnāvali Boutique – Cloudflare Workers, D1, R2",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "type-check": "tsc --noEmit",
+    "seed:generate": "node scripts/generate-seed.mjs",
+    "migrate:dry-run": "node scripts/migrate-content.mjs --dry-run",
+    "migrate:local": "node scripts/migrate-content.mjs --local",
+    "migrate:local:r2": "node scripts/migrate-content.mjs --local --upload-r2",
+    "provision:admin:dry-run": "node scripts/provision-admin.mjs --dry-run",
+    "provision:admin": "node scripts/provision-admin.mjs --local",
+    "test:api": "node scripts/smoke-test.mjs",
+    "site": "npx --yes serve -l 8000 ."
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "d1",
+    "r2",
+    "boutique",
+    "api"
+  ],
+  "author": "Krishna Pensalwar",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250112.0",
+    "@types/node": "^20.10.6",
+    "typescript": "^5.3.3",
+    "wrangler": "^3.26.0"
+  },
+  "dependencies": {}
+}

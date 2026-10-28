@@ -1,0 +1,131 @@
+{
+  "uploaded": [
+    {
+      "rel": "assets/images/img_01.png",
+      "key": "seed/000000000000-img_01.png",
+      "id": "00000000-0000-4000-8000-0000526dc2dd"
+    },
+    {
+      "rel": "assets/images/img_02.png",
+      "key": "seed/000000000000-img_02.png",
+      "id": "00000000-0000-4000-8000-0000525fab5c"
+    },
+    {
+      "rel": "assets/images/img_03.png",
+      "key": "seed/000000000000-img_03.png",
+      "id": "00000000-0000-4000-8000-0000525193db"
+    },
+    {
+      "rel": "assets/images/img_04.png",
+      "key": "seed/000000000000-img_04.png",
+      "id": "00000000-0000-4000-8000-000052437c5a"
+    },
+    {
+      "rel": "assets/images/img_05.png",
+      "key": "seed/000000000000-img_05.png",
+      "id": "00000000-0000-4000-8000-0000523564d9"
+    },
+    {
+      "rel": "assets/images/img_06.png",
+      "key": "seed/000000000000-img_06.png",
+      "id": "00000000-0000-4000-8000-000052274d58"
+    },
+    {
+      "rel": "assets/images/img_07.png",
+      "key": "seed/000000000000-img_07.png",
+      "id": "00000000-0000-4000-8000-0000521935d7"
+    },
+    {
+      "rel": "assets/images/img_08.png",
+      "key": "seed/000000000000-img_08.png",
+      "id": "00000000-0000-4000-8000-0000520b1e56"
+    },
+    {
+      "rel": "assets/images/img_09.png",
+      "key": "seed/000000000000-img_09.png",
+      "id": "00000000-0000-4000-8000-000051fd06d5"
+    },
+    {
+      "rel": "assets/images/img_10.png",
+      "key": "seed/000000000000-img_10.png",
+      "id": "00000000-0000-4000-8000-000050c701bf"
+    },
+    {
+      "rel": "assets/images/img_11.png",
+      "key": "seed/000000000000-img_11.png",
+      "id": "00000000-0000-4000-8000-000050b8ea3e"
+    },
+    {
+      "rel": "assets/images/img_12.png",
+      "key": "seed/000000000000-img_12.png",
+      "id": "00000000-0000-4000-8000-000050aad2bd"
+    },
+    {
+      "rel": "assets/images/img_13.png",
+      "key": "seed/000000000000-img_13.png",
+      "id": "00000000-0000-4000-8000-0000509cbb3c"
+    },
+    {
+      "rel": "assets/images/img_14.png",
+      "key": "seed/000000000000-img_14.png",
+      "id": "00000000-0000-4000-8000-0000508ea3bb"
+    },
+    {
+      "rel": "assets/images/img_15.png",
+      "key": "seed/000000000000-img_15.png",
+      "id": "00000000-0000-4000-8000-000050808c3a"
+    },
+    {
+      "rel": "assets/images/img_16.png",
+      "key": "seed/000000000000-img_16.png",
+      "id": "00000000-0000-4000-8000-0000507274b9"
+    },
+    {
+      "rel": "assets/images/gallery_01.png",
+      "key": "seed/000000000000-gallery_01.png",
+      "id": "00000000-0000-4000-8000-00006de26134"
+    },
+    {
+      "rel": "assets/images/gallery_02.png",
+      "key": "seed/000000000000-gallery_02.png",
+      "id": "00000000-0000-4000-8000-00006df078b5"
+    },
+    {
+      "rel": "assets/images/gallery_03.png",
+      "key": "seed/000000000000-gallery_03.png",
+      "id": "00000000-0000-4000-8000-00006dfe9036"
+    },
+    {
+      "rel": "assets/images/gallery_04.png",
+      "key": "seed/000000000000-gallery_04.png",
+      "id": "00000000-0000-4000-8000-00006e0ca7b7"
+    },
+    {
+      "rel": "assets/images/gallery_05.png",
+      "key": "seed/000000000000-gallery_05.png",
+      "id": "00000000-0000-4000-8000-00006e1abf38"
+    },
+    {
+      "rel": "assets/images/gallery_06.png",
+      "key": "seed/000000000000-gallery_06.png",
+      "id": "00000000-0000-4000-8000-00006e28d6b9"
+    },
+    {
+      "rel": "assets/images/gallery_07.png",
+      "key": "seed/000000000000-gallery_07.png",
+      "id": "00000000-0000-4000-8000-00006e36ee3a"
+    },
+    {
+      "rel": "assets/images/gallery_08.png",
+      "key": "seed/000000000000-gallery_08.png",
+      "id": "00000000-0000-4000-8000-00006e4505bb"
+    },
+    {
+      "rel": "assets/images/artisan_portrait.png",
+      "key": "seed/000000000000-artisan_portrait.png",
+      "id": "00000000-0000-4000-8000-00005ab6d866"
+    }
+  ],
+  "failed": [],
+  "urlsUpdated": 25
+}

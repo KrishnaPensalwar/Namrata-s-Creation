@@ -1,0 +1,19 @@
+# Local Development Environment Variables
+# Copy this to .dev.vars and update with your values
+# DO NOT commit .dev.vars to version control
+
+# API Key Hash (SHA-256 of your test API key)
+# Generate a test key locally and hash it for development
+# Example: echo -n "your_test_key_here" | openssl dgst -sha256
+API_KEY_HASH=dev_hash_placeholder
+
+# Allowed Origins (CORS)
+# Add any domains/ports that will call the API during development
+ALLOWED_ORIGINS=http://localhost:3000,http://localhost:8000,http://127.0.0.1:8000,http://localhost:8787
+
+# Log Level
+# Options: debug, info, warn, error
+LOG_LEVEL=debug
+
+# CDN URL for R2 images (local development uses http://localhost:8787)
+CDN_URL=http://localhost:8787/media

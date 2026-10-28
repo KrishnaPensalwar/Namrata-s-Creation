@@ -1,0 +1,106 @@
+{
+  "uploaded": [],
+  "skipped": [
+    {
+      "path": "assets/images/img_01.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_02.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_03.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_04.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_05.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_06.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_07.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_08.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_09.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_10.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_11.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_12.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_13.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_14.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_15.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/img_16.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_01.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_02.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_03.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_04.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_05.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_06.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_07.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/gallery_08.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    },
+    {
+      "path": "assets/images/artisan_portrait.png",
+      "reason": "local asset URLs (run --upload-r2 after R2 ready)"
+    }
+  ],
+  "failed": []
+}

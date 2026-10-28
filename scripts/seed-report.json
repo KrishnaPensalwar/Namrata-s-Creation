@@ -1,0 +1,196 @@
+{
+  "media": [
+    {
+      "id": "00000000-0000-4000-8000-0000526dc2dd",
+      "path": "assets/images/img_01.png",
+      "publicUrl": "/assets/images/img_01.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000525fab5c",
+      "path": "assets/images/img_02.png",
+      "publicUrl": "/assets/images/img_02.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000525193db",
+      "path": "assets/images/img_03.png",
+      "publicUrl": "/assets/images/img_03.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00005ab6d866",
+      "path": "assets/images/artisan_portrait.png",
+      "publicUrl": "/assets/images/artisan_portrait.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000526dc2dd",
+      "path": "assets/images/img_01.png",
+      "publicUrl": "/assets/images/img_01.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000525fab5c",
+      "path": "assets/images/img_02.png",
+      "publicUrl": "/assets/images/img_02.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000525193db",
+      "path": "assets/images/img_03.png",
+      "publicUrl": "/assets/images/img_03.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000052437c5a",
+      "path": "assets/images/img_04.png",
+      "publicUrl": "/assets/images/img_04.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000523564d9",
+      "path": "assets/images/img_05.png",
+      "publicUrl": "/assets/images/img_05.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000052274d58",
+      "path": "assets/images/img_06.png",
+      "publicUrl": "/assets/images/img_06.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000521935d7",
+      "path": "assets/images/img_07.png",
+      "publicUrl": "/assets/images/img_07.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000520b1e56",
+      "path": "assets/images/img_08.png",
+      "publicUrl": "/assets/images/img_08.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000051fd06d5",
+      "path": "assets/images/img_09.png",
+      "publicUrl": "/assets/images/img_09.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000050c701bf",
+      "path": "assets/images/img_10.png",
+      "publicUrl": "/assets/images/img_10.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000050b8ea3e",
+      "path": "assets/images/img_11.png",
+      "publicUrl": "/assets/images/img_11.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000050aad2bd",
+      "path": "assets/images/img_12.png",
+      "publicUrl": "/assets/images/img_12.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000509cbb3c",
+      "path": "assets/images/img_13.png",
+      "publicUrl": "/assets/images/img_13.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000508ea3bb",
+      "path": "assets/images/img_14.png",
+      "publicUrl": "/assets/images/img_14.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000050808c3a",
+      "path": "assets/images/img_15.png",
+      "publicUrl": "/assets/images/img_15.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000507274b9",
+      "path": "assets/images/img_16.png",
+      "publicUrl": "/assets/images/img_16.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006de26134",
+      "path": "assets/images/gallery_01.png",
+      "publicUrl": "/assets/images/gallery_01.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006df078b5",
+      "path": "assets/images/gallery_02.png",
+      "publicUrl": "/assets/images/gallery_02.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006dfe9036",
+      "path": "assets/images/gallery_03.png",
+      "publicUrl": "/assets/images/gallery_03.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006e0ca7b7",
+      "path": "assets/images/gallery_04.png",
+      "publicUrl": "/assets/images/gallery_04.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006e1abf38",
+      "path": "assets/images/gallery_05.png",
+      "publicUrl": "/assets/images/gallery_05.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006e28d6b9",
+      "path": "assets/images/gallery_06.png",
+      "publicUrl": "/assets/images/gallery_06.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006e36ee3a",
+      "path": "assets/images/gallery_07.png",
+      "publicUrl": "/assets/images/gallery_07.png"
+    },
+    {
+      "id": "00000000-0000-4000-8000-00006e4505bb",
+      "path": "assets/images/gallery_08.png",
+      "publicUrl": "/assets/images/gallery_08.png"
+    }
+  ],
+  "products": [
+    "coll-01",
+    "coll-02",
+    "coll-03",
+    "coll-04",
+    "coll-05",
+    "coll-06",
+    "coll-07",
+    "coll-08",
+    "coll-09",
+    "coll-10",
+    "coll-11",
+    "coll-12",
+    "feat-01",
+    "feat-02",
+    "feat-03",
+    "feat-04"
+  ],
+  "gallery": [
+    "gal-01",
+    "gal-02",
+    "gal-03",
+    "gal-04",
+    "gal-05",
+    "gal-06",
+    "gal-07",
+    "gal-08"
+  ],
+  "testimonials": [
+    "test-01",
+    "test-02",
+    "test-03"
+  ],
+  "settings": [
+    "meta",
+    "brand",
+    "whatsapp",
+    "nav",
+    "marquee",
+    "hero",
+    "collections",
+    "featured",
+    "occasions",
+    "custom",
+    "gallery",
+    "about",
+    "testimonials",
+    "faq",
+    "contact",
+    "footer"
+  ],
+  "missingImages": []
+}

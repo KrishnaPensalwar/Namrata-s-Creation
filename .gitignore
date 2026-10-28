@@ -1,0 +1,53 @@
+# Environment & Secrets
+.dev.vars
+.env
+.env.local
+.env.*.local
+
+# Wrangler
+.wrangler/
+wrangler.json
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Generated API keys (do NOT commit)
+scripts/generated-api-key.txt
+scripts/generated-admin-user.json
+
+# Local test files
+*.test.local.js
+*.test.local.ts
+
+# Firebase (keeping for reference, not used in new arch)
+# firebase-config.js is preserved in repo for historical reference
